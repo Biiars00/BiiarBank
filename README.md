@@ -10,6 +10,6 @@
 * CSS
 * JavaScript
 
-Utilizei o **Media Queries** para tornar o design responsivo. 
+Utilizei o **Media Query** para tornar o design responsivo. 
 
 *Obs.: Projeto realizado durante o curso de validação de formulário (JavaScript) da Alura.*

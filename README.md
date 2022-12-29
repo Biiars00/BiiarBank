@@ -2,9 +2,8 @@
 
 <p>Este projeto é um protótipo e está em fase de desenvolvimento. Até o momento, foi realizado o escopo com HTML e CSS. Em breve, farei a integração do banco de dados e de toda a parte back-end.</p>
 
-![](./img/BiiarBank%20_%20P%C3%A1gina%20inicial.mp4)
+> [Link de Visualização da página inicial e do formulário](https://github.com/Biiars00/BiiarBank/issues/1#issue-1513245429)
 
-![](./img/BiiarBank%20_%20Abrir%20conta.mp4)
 
 ## Tecnologias utilizadas no projeto (até o momento)
 * HTML
